@@ -51,7 +51,10 @@ header nav ul li a:hover {
 
 header .container img{
      height: 30px;
-     width: 40%;
+}
+
+#checkbox-menu{
+    display: none;
 }
 
 main {
